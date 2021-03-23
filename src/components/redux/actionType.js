@@ -1,0 +1,25 @@
+export const LOGIN_REQ="LOGIN_REQ"
+export const LOGIN_REQ_SUCCESS="LOGIN_REQ_SUCCESS"
+export const LOGIN_REQ_FAILURE="LOGIN_REQ_FAILURE"
+
+//USERS DATA
+export const USERS_REQ="USERS_REQ"
+export const USERS_REQ_SUCCESS="USERS_REQ_SUCCESS"
+export const USERS_REQ_FAILURE="USERS_REQ_FAILURE"
+
+//BLOGS DATA
+export const BLOGS_REQ="BLOGS_REQ"
+export const BLOGS_REQ_SUCCESS="BLOGS_REQ_SUCCESS"
+export const BLOGS_REQ_FAILURE="BLOGS_REQ_FAILURE"
+ 
+//Render
+
+export const RENDER="RENDER"
+
+export const RENDER_SUCCESS="RENDER_SUCCESS"
+
+//Redirect to single blog
+
+export const SINGLE_BLOG="SINGLE_BLOG"
+
+export const LOG_OUT="LOG_OUT"
